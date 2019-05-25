@@ -37,3 +37,6 @@ C:\Users\EMA\Desktop\PersonTrackingCodeSample-NoServos\PersonTracking\obj\x86\De
 C:\Users\EMA\Desktop\PersonTrackingCodeSample-NoServos\PersonTracking\obj\x86\Debug\CENSAR.g.resources
 C:\Users\EMA\Desktop\PersonTrackingCodeSample-NoServos\PersonTracking\obj\x86\Debug\PersonTracking.Properties.Resources.resources
 C:\Users\EMA\Desktop\PersonTrackingCodeSample-NoServos\PersonTracking\obj\x86\Debug\CENSAR.csproj.GenerateResource.Cache
+C:\Users\EMA\Desktop\DV\aan\censarv2\PersonTracking\bin\x86\Debug\CENSAR.exe.config
+C:\Users\EMA\Desktop\DV\aan\censarv2\PersonTracking\obj\x86\Debug\CENSAR.exe
+C:\Users\EMA\Desktop\DV\aan\censarv2\PersonTracking\obj\x86\Debug\CENSAR.pdb

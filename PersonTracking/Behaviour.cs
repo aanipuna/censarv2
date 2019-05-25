@@ -31,18 +31,6 @@ namespace PersonTracking
         {
             double speed, inputSpeed;
             
-
-            /* servoShoulder = new ServoControl("COM4");
-             servoShoulder.add(1);
-             servoNeck = new ServoControl("COM5");
-             servoNeck.add(2);
-             servoShoulder.Start();
-             servoNeck.Start();
-             servoShoulder.SetSpeed(20);
-             servoNeck.SetSpeed(40);
-             servoShoulder.setTargetPosition(1500);
-             servoNeck.setTargetPosition(1100);*///comented because add new servo class
-                                                 //create object using new class
             servos = new Servo("COM17");
             servos.enableTorque(neck, Servo.Torque_1);
             servos.enableTorque(head, Servo.Torque_1);
@@ -52,21 +40,6 @@ namespace PersonTracking
             //iRobot = new IRobotCreate();
             IRobotCreate.init(115200, "COM7");
             IRobotCreate.sensorDataHandler += new IRobotCreate.SensorDataHandler(onSensorData);
-            //Console.WriteLine("Enter iRobot Speed follwed by .00");
-            //if (double.TryParse(Console.ReadLine(), out inputSpeed))
-            //{
-            //    speed = inputSpeed;
-            //    rate = (int)(500 * speed / 100.0);
-
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Wrong number format!. setting speed to default 20");
-            //    rate = (int)(500 * 20 / 100.0);
-            //}
-
-            //Thread child = new Thread(randomMotion);
-            //child.Start();
         }
 
         //static void Main(string[] args)
