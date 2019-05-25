@@ -1,0 +1,14 @@
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\bin\Debug\PersonTracking.exe.config
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\bin\Debug\PersonTracking.exe
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\bin\Debug\PersonTracking.pdb
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\bin\Debug\libpxcclr.cs.dll
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.csprojResolveAssemblyReference.cache
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\MainWindow.baml
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\MainWindow.g.cs
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\App.g.cs
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking_MarkupCompile.cache
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.g.resources
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.Properties.Resources.resources
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.csproj.GenerateResource.Cache
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.exe
+C:\apache-tomcat-7.0.75\webapps\testimages\iml\PersonTrackingCodeSample-NoServos\PersonTracking\obj\Debug\PersonTracking.pdb
